@@ -56,38 +56,39 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 
 # ----- KIDS ZONE -----
-#EXTINF:-1 tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8", Kids Tv
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8", Kids Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdx571kW/con-tv-logo.png", Con TV
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/jdx571kW/con-tv-logo.png", Con TV
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLyL0FvR/kids-tv-India-logo.png", Kids TV India
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/pLyL0FvR/kids-tv-India-logo.png", Kids TV India
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wp6ztVSL/zoomoo-logo.png", Zoomoo
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/Wp6ztVSL/zoomoo-logo.png", Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qv5KxTP/toonz-kids-logo.png", Toonz Kids
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/6Qv5KxTP/toonz-kids-logo.png", Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ0yG0xH/pbs-kids-logo.png", PBS Kids
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/bJ0yG0xH/pbs-kids-logo.png", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst%3A200914-1298290/chunklist_b2000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13T5b3R6/tiny-pop-logo.png", Tiny Pop
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/13T5b3R6/tiny-pop-logo.png", Tiny Pop
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRHBMD3v/nick-jr-logo.png", Nick Jr
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/qRHBMD3v/nick-jr-logo.png", Nick Jr
 http://212.102.60.231/NICK_JR/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x800Lkgr/nickelodeon-logo.png", Nickelodeon
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/x800Lkgr/nickelodeon-logo.png", Nickelodeon
 http://143.244.60.30/NICKELODEON/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5NmDH0J/pogo-logo.png", Pogo
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/L5NmDH0J/pogo-logo.png", Pogo
 http://217.20.112.199/pogo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXqtXdR/cartoon-network-logo.png", Cartoon Network
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/jqXqtXdR/cartoon-network-logo.png", Cartoon Network
 https://jio.tamilultra.tv/app/ts_live_166.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHZYBVcf/rongeen-tv-logo.png", Rongeen Tv (BD)
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/vHZYBVcf/rongeen-tv-logo.png", Rongeen Tv (BD)
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
