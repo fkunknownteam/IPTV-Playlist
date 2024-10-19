@@ -87,5 +87,8 @@ http://217.20.112.199/pogo/tracks-v1a1/mono.m3u8
 https://jio.tamilultra.tv/app/ts_live_166.m3u8
 
 #EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/vHZYBVcf/rongeen-tv-logo.png", Rongeen Tv (BD)
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
+
+#EXTINF :-1 group-title="Kids zone" tvg-logo="https://i.postimg.cc/XqmCjS9D/sonic-logo.png", Sonic Hindi 
+https://test-tan-iota-90.vercel.app/live/bdix/app/NickHindi.m3u8
 
