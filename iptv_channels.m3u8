@@ -1,15 +1,13 @@
 #EXTM3U
 
-# Bengali Entertainment Channels
-#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/wjWVNqmQ/Star-Jalsha-logo.png" group-title="Entertainment", Star Jalsha
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/wjWVNqmQ/Star-Jalsha-logo.png" group-title="Bengali Entertainment",Star Jalsha
 http://217.20.112.199/starjalshahd/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/nVdypn1X/zee-Bangla-HD-logo.jpg" group-title="Entertainment", Zee Bangla HD
+#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/nVdypn1X/zee-Bangla-HD-logo.jpg" group-title="Bengali Entertainment",Zee Bangla HD
 http://217.20.112.199/zeebangla/index.m3u8
 
-# Bengali Music Channels
-#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/rszYKt9K/san-Bangla-logo.jpg" group-title="Music", Sangeet Bangla
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/rszYKt9K/san-Bangla-logo.jpg" group-title="Bengali Music",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
-#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/kX0hgGRg/color-bangla-logo.jpg" group-title="Entertainment", Colors Bangla
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/kX0hgGRg/color-bangla-logo.jpg" group-title="Bengali Entertainment",Colors Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
