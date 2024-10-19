@@ -56,6 +56,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 
 # ----- KIDS ZONE -----
+
 #EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/jdx571kW/con-tv-logo.png", Con TV
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8
 
@@ -87,8 +88,7 @@ http://217.20.112.199/pogo/tracks-v1a1/mono.m3u8
 https://jio.tamilultra.tv/app/ts_live_166.m3u8
 
 #EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/vHZYBVcf/rongeen-tv-logo.png", Rongeen Tv (BD)
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF :-1 group-title="Kids zone" tvg-logo="https://i.postimg.cc/XqmCjS9D/sonic-logo.png", Sonic Hindi 
+#EXTINF:-1 group-title="Kids Zone" tvg-logo="https://i.postimg.cc/XqmCjS9D/sonic-logo.png", Sonic Hindi
 https://test-tan-iota-90.vercel.app/live/bdix/app/NickHindi.m3u8
-
