@@ -11,3 +11,46 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 
 #EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/kX0hgGRg/color-bangla-logo.jpg" group-title="Bengali Entertainment",Colors Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
+
+# Bengali Music Channels
+#EXTINF:-1 tvg-id="GaanBangla" tvg-name="Gaan Bangla" tvg-logo="https://i.postimg.cc/tJLpw1kM/gaabbangla-logo.png" group-title="Bengali Music",Gaan Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATNMusic" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/vB4mKdMD/atn-music-logo.png" group-title="Bengali Music",ATN Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RNGMusic" tvg-name="91 RNG Music" tvg-logo="https://i.postimg.cc/NM2g477H/91-nrg-music-logo.png" group-title="International Music",91 RNG Music
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w282239334.m3u8
+
+#EXTINF:-1 tvg-id="ZoomMusic" tvg-name="Zoom Music" tvg-logo="https://i.postimg.cc/HsgpwMJr/zoom.png" group-title="International Music",Zoom Music
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/f186bbef-663c-478e-9d43-bc985ec750b0:TPE2/master.m3u8
+
+#EXTINF:-1 tvg-id="BritAsiaTV" tvg-name="Brit Asia TV" tvg-logo="https://i.postimg.cc/cHWBptzV/brit-asia-tv-logo.jpg" group-title="International Music",Brit Asia TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/ad785215-9b76-421c-b7c9-ec8c7670ceff/0.m3u8
+
+#EXTINF:-1 tvg-id="V2BeatTV" tvg-name="V2 Beat TV" tvg-logo="https://i.postimg.cc/mDGWKVBB/v2beat-tv-logo.jpg" group-title="International Music",V2 Beat TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/v2beattv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="Trace Urban" tvg-logo="https://i.postimg.cc/9f0BMrCM/Traceurban2022.png" group-title="International Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+
+#EXTINF:-1 tvg-id="JoomMusic" tvg-name="Joom Music" tvg-logo="https://i.postimg.cc/4yx8zBT6/joo-music-logo.png" group-title="International Music",Joom Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SagaMusic" tvg-name="Saga Music" tvg-logo="https://i.postimg.cc/nr7hHYXJ/20241019-071653.png" group-title="International Music",Saga Music
+https://cdn2.pishow.tv/live/141/141_1.m3u8
+
+#EXTINF:-1 tvg-id="MattiMusic" tvg-name="Matti Music" tvg-logo="https://i.postimg.cc/nc4hg28K/masii-music-logo.png" group-title="International Music",Matti Music
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/bc8e1434-20b6-4578-9116-b0278621e345/0.m3u8
+
+#EXTINF:-1 tvg-id="ShowBox" tvg-name="Show Box" tvg-logo="https://i.postimg.cc/8znQ0fCB/20241019-072943.png" group-title="International Music",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia" tvg-name="Music India" tvg-logo="https://i.postimg.cc/wBCK6KL1/music-India-logo.png" group-title="International Music",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-id="E24" tvg-name="E 24" tvg-logo="https://i.postimg.cc/dVfpBMW5/e-24.png" group-title="International Music",E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
+
+#EXTINF:-1 tvg-id="ColosalMusic" tvg-name="Colosal Music" tvg-logo="https://i.postimg.cc/DfcNN4jJ/colosal-logo.png" group-title="International Music",Colosal Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
